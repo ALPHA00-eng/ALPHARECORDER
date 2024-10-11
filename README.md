@@ -8,5 +8,5 @@ To install the Screen Recorder, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/screen-recorder.git
+   git clone https://github.com/ALPHA00-eng/ALPHARECORDER.git
    cd screen-recorder
